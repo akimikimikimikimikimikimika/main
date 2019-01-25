@@ -32,7 +32,7 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 - iPhone X 対応
 
 ### 開く
-- [オンライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/index.html)
+- [オンライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/Wave.html)
 - [オフライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/offline.html)
 - [ソースコード](https://github.com/akimikimikimikimikimikimika/main/tree/master/Wave)
 

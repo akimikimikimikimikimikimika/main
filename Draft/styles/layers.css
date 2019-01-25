@@ -1,0 +1,43 @@
+.main>.layer{
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:0px;
+    bottom:0px;
+}
+.layer.axis{
+    z-index:1;
+}
+.layer.axis>div{
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:0px;
+    bottom:0px;
+    border-style:none;
+    border-width:1px;
+}
+.layer.axis>*:first-child{
+    bottom:50%;
+    border-bottom-style:solid;
+}
+.layer.axis>*:last-child{
+    right:50%;
+    border-right-style:solid;
+}
+.layer.draw{
+    z-index:2;
+}
+.draw>.object{
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:0px;
+    bottom:0px;
+}
+.object>.triangle{
+    
+}
+.layer.detect{
+    z-index:3;
+}

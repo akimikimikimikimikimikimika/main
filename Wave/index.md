@@ -15,7 +15,7 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 ### 編集モード
 - 出力波の調節ができる
 - 2次元グラフで調整
-- 原点が標準設定である
+- 原点の位置にセットすると標準設定になる
 - x方向は振動数であり,1分間の振動回数で表示する
 - y方向は波長であり,標準設定での波長からの相対値で表示する
 
@@ -30,7 +30,7 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 ### 開く
 - [オンライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/Wave.html "Waveオンライン版")
 - [オフライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/offline.html "Waveオフライン版")
-- [ソースコード](https://github.com/akimikimikimikimikimikimika/main/tree/master/Wave "ソースコード")
+- [ソースコード (GitHub)](https://github.com/akimikimikimikimikimikimika/main/tree/master/Wave "ソースコード")
 
 オンライン版では,全てのコンテンツを組み込み,常に最新の状態で利用できます。
 オフライン版では,オンライン版と同じ体験をオフラインでもできるようにします。URLのdataスキームに全てのソースコードを埋め込んでいるので,一部コンテンツに制限があります。

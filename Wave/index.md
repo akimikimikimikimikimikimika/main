@@ -24,13 +24,13 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 - 波源を複数導入すると,動作しなくなる。
 - 同じURLでそのままデスクトップでも,モバイルでも利用できる。
 - iOSデバイス,macOSでの動作のみ検証済。その他の閲覧環境では作動しない可能性もある。
-- iOSデバイスでは,ホーム画面にアイコンを追加すると,スタンドアロンで開く。
+- iOSデバイスでは,ホーム画面にアイコンを追加すると,スタンドアロンで開く。Safari上では正常に動作しない可能性あり。
 - iPhone X 対応
 
 ### 開く
-- [オンライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/Wave.html)
-- [オフライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/offline.html)
-- [ソースコード](https://github.com/akimikimikimikimikimikimika/main/tree/master/Wave)
+- [オンライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/Wave.html "Waveオンライン版")
+- [オフライン版](https://akimikimikimikimikimikimika.github.io/main/Wave/offline.html "Waveオフライン版")
+- [ソースコード](https://github.com/akimikimikimikimikimikimika/main/tree/master/Wave "ソースコード")
 
-オンライン版では,全てのコンテンツを組み込んでいます。
-オフライン版では,オンライン版と同じ体験をオフラインでもできるようにします。URLのdataスキームにソースコードを埋め込んでいるので,一部コンテンツに制限があります。
+オンライン版では,全てのコンテンツを組み込み,常に最新の状態で利用できます。
+オフライン版では,オンライン版と同じ体験をオフラインでもできるようにします。URLのdataスキームに全てのソースコードを埋め込んでいるので,一部コンテンツに制限があります。

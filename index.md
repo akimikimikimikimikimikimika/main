@@ -10,7 +10,7 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 
 ## Password Generator
 
-Password Generatorは,条件に合わせてランダムなパスワードを生成するためのツールです。
+Password Generatorは,条件に合わせてランダムなパスワードを生成するツールです。
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/main/PasswordGenerator/ "Password Generator")
 

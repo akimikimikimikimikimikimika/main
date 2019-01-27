@@ -13,3 +13,9 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 Password Generatorは,条件に合わせてランダムなパスワードを生成するためのツールです。
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/main/PasswordGenerator/ "Password Generator")
+
+## Color
+
+Colorは,色と,色に応じて変化するコンテンツのサンプルです。
+
+ [詳細を表示](https://akimikimikimikimikimikimika.github.io/main/Color/ "Color")

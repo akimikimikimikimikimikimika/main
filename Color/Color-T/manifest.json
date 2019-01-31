@@ -12,6 +12,6 @@
     "description":"Color T (A~Sの全色混交) のサンプルです",
     "display":"standalone",
     "start_url":"?standalone=yes",
-    "background_color":"#ffffff",
-    "theme_color":"#ffffff"
+    "background_color":"#FFFFFF",
+    "theme_color":"#FFFFFF"
 }

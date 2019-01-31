@@ -4,7 +4,7 @@ Colorは,色と,色に応じて変化するコンテンツのサンプルです�
 
 ### 色
 - A\~R: 有彩色, S: 無彩色, T: 全色
-- HSL表示において,HとSは極座標におけるθとrの関係である。A\~Sの色は,Sが原点,A\~Rが中心から等しい距離だけ離れ,20°ずつずれた位置にあると考えられる。それを花の図で表現している。
+- HSL表示において,HとSはそれぞれ,極座標におけるθとrの関係である。A\~Sの色は,Sが原点,A\~Rが中心から等しい距離だけ離れ,20°ずつずれた位置にあると考えられる。それを花の図で表現している。
 
 ### 色の対応
 LightとDarkは背景色の値で表示している
@@ -31,30 +31,38 @@ LightとDarkは背景色の値で表示している
 |   R   | `hsl(340,80%,50%)` | `hsl(340,80%,95%)` | `hsl(340,80%,15%)` |
 |   S   |    `hsl(0,0%,50%)` |    `hsl(0,0%,95%)` |    `hsl(0,0%,15%)` |
 
+### 特記事項
+- Android版ChromeやVivaldiでは,上部バーの色が変化する
+- アイコンは通常のアイコンとapple-touch-icon,Windowsタイルに対応
+- iPhone X 対応
+
+### 更新内容
+- 幾つか細かな部分のバグ修正,改良を実施
+
 ### 開く
 
 | オンライン版 | オフライン版 |
 |:----------:|:----------:|
-| [A](https://akimikimikimikimikimikimika.github.io/main/Color/Color-A/ "A") | [A](https://akimikimikimikimikimikimika.github.io/main/Color/Color-A/offline.html "A") |
-| [B](https://akimikimikimikimikimikimika.github.io/main/Color/Color-B/ "B") | [B](https://akimikimikimikimikimikimika.github.io/main/Color/Color-B/offline.html "B") |
-| [C](https://akimikimikimikimikimikimika.github.io/main/Color/Color-C/ "C") | [C](https://akimikimikimikimikimikimika.github.io/main/Color/Color-C/offline.html "C") |
-| [D](https://akimikimikimikimikimikimika.github.io/main/Color/Color-D/ "D") | [D](https://akimikimikimikimikimikimika.github.io/main/Color/Color-D/offline.html "D") |
-| [E](https://akimikimikimikimikimikimika.github.io/main/Color/Color-E/ "E") | [E](https://akimikimikimikimikimikimika.github.io/main/Color/Color-E/offline.html "E") |
-| [F](https://akimikimikimikimikimikimika.github.io/main/Color/Color-F/ "F") | [F](https://akimikimikimikimikimikimika.github.io/main/Color/Color-F/offline.html "F") |
-| [G](https://akimikimikimikimikimikimika.github.io/main/Color/Color-G/ "G") | [G](https://akimikimikimikimikimikimika.github.io/main/Color/Color-G/offline.html "G") |
-| [H](https://akimikimikimikimikimikimika.github.io/main/Color/Color-H/ "H") | [H](https://akimikimikimikimikimikimika.github.io/main/Color/Color-H/offline.html "H") |
-| [I](https://akimikimikimikimikimikimika.github.io/main/Color/Color-I/ "I") | [I](https://akimikimikimikimikimikimika.github.io/main/Color/Color-I/offline.html "I") |
-| [J](https://akimikimikimikimikimikimika.github.io/main/Color/Color-J/ "J") | [J](https://akimikimikimikimikimikimika.github.io/main/Color/Color-J/offline.html "J") |
-| [K](https://akimikimikimikimikimikimika.github.io/main/Color/Color-K/ "K") | [K](https://akimikimikimikimikimikimika.github.io/main/Color/Color-K/offline.html "K") |
-| [L](https://akimikimikimikimikimikimika.github.io/main/Color/Color-L/ "L") | [L](https://akimikimikimikimikimikimika.github.io/main/Color/Color-L/offline.html "L") |
-| [M](https://akimikimikimikimikimikimika.github.io/main/Color/Color-M/ "M") | [M](https://akimikimikimikimikimikimika.github.io/main/Color/Color-M/offline.html "M") |
-| [N](https://akimikimikimikimikimikimika.github.io/main/Color/Color-N/ "N") | [N](https://akimikimikimikimikimikimika.github.io/main/Color/Color-N/offline.html "N") |
-| [O](https://akimikimikimikimikimikimika.github.io/main/Color/Color-O/ "O") | [O](https://akimikimikimikimikimikimika.github.io/main/Color/Color-O/offline.html "O") |
-| [P](https://akimikimikimikimikimikimika.github.io/main/Color/Color-P/ "P") | [P](https://akimikimikimikimikimikimika.github.io/main/Color/Color-P/offline.html "P") |
-| [Q](https://akimikimikimikimikimikimika.github.io/main/Color/Color-Q/ "Q") | [Q](https://akimikimikimikimikimikimika.github.io/main/Color/Color-Q/offline.html "Q") |
-| [R](https://akimikimikimikimikimikimika.github.io/main/Color/Color-R/ "R") | [R](https://akimikimikimikimikimikimika.github.io/main/Color/Color-R/offline.html "R") |
-| [S](https://akimikimikimikimikimikimika.github.io/main/Color/Color-S/ "S") | [S](https://akimikimikimikimikimikimika.github.io/main/Color/Color-S/offline.html "S") |
-| [T](https://akimikimikimikimikimikimika.github.io/main/Color/Color-T/ "T") | [T](https://akimikimikimikimikimikimika.github.io/main/Color/Color-T/offline.html "T") |
+| [A](https://akimikimikimikimikimikimika.github.io/main/Color/Color-A/ "Color A オンライン版") | [A](https://akimikimikimikimikimikimika.github.io/main/Color/Color-A/offline.html "Color A オフライン版") |
+| [B](https://akimikimikimikimikimikimika.github.io/main/Color/Color-B/ "Color B オンライン版") | [B](https://akimikimikimikimikimikimika.github.io/main/Color/Color-B/offline.html "Color B オフライン版") |
+| [C](https://akimikimikimikimikimikimika.github.io/main/Color/Color-C/ "Color C オンライン版") | [C](https://akimikimikimikimikimikimika.github.io/main/Color/Color-C/offline.html "Color C オフライン版") |
+| [D](https://akimikimikimikimikimikimika.github.io/main/Color/Color-D/ "Color D オンライン版") | [D](https://akimikimikimikimikimikimika.github.io/main/Color/Color-D/offline.html "Color D オフライン版") |
+| [E](https://akimikimikimikimikimikimika.github.io/main/Color/Color-E/ "Color E オンライン版") | [E](https://akimikimikimikimikimikimika.github.io/main/Color/Color-E/offline.html "Color E オフライン版") |
+| [F](https://akimikimikimikimikimikimika.github.io/main/Color/Color-F/ "Color F オンライン版") | [F](https://akimikimikimikimikimikimika.github.io/main/Color/Color-F/offline.html "Color F オフライン版") |
+| [G](https://akimikimikimikimikimikimika.github.io/main/Color/Color-G/ "Color G オンライン版") | [G](https://akimikimikimikimikimikimika.github.io/main/Color/Color-G/offline.html "Color G オフライン版") |
+| [H](https://akimikimikimikimikimikimika.github.io/main/Color/Color-H/ "Color H オンライン版") | [H](https://akimikimikimikimikimikimika.github.io/main/Color/Color-H/offline.html "Color H オフライン版") |
+| [I](https://akimikimikimikimikimikimika.github.io/main/Color/Color-I/ "Color I オンライン版") | [I](https://akimikimikimikimikimikimika.github.io/main/Color/Color-I/offline.html "Color I オフライン版") |
+| [J](https://akimikimikimikimikimikimika.github.io/main/Color/Color-J/ "Color J オンライン版") | [J](https://akimikimikimikimikimikimika.github.io/main/Color/Color-J/offline.html "Color J オフライン版") |
+| [K](https://akimikimikimikimikimikimika.github.io/main/Color/Color-K/ "Color K オンライン版") | [K](https://akimikimikimikimikimikimika.github.io/main/Color/Color-K/offline.html "Color K オフライン版") |
+| [L](https://akimikimikimikimikimikimika.github.io/main/Color/Color-L/ "Color L オンライン版") | [L](https://akimikimikimikimikimikimika.github.io/main/Color/Color-L/offline.html "Color L オフライン版") |
+| [M](https://akimikimikimikimikimikimika.github.io/main/Color/Color-M/ "Color M オンライン版") | [M](https://akimikimikimikimikimikimika.github.io/main/Color/Color-M/offline.html "Color M オフライン版") |
+| [N](https://akimikimikimikimikimikimika.github.io/main/Color/Color-N/ "Color N オンライン版") | [N](https://akimikimikimikimikimikimika.github.io/main/Color/Color-N/offline.html "Color N オフライン版") |
+| [O](https://akimikimikimikimikimikimika.github.io/main/Color/Color-O/ "Color O オンライン版") | [O](https://akimikimikimikimikimikimika.github.io/main/Color/Color-O/offline.html "Color O オフライン版") |
+| [P](https://akimikimikimikimikimikimika.github.io/main/Color/Color-P/ "Color P オンライン版") | [P](https://akimikimikimikimikimikimika.github.io/main/Color/Color-P/offline.html "Color P オフライン版") |
+| [Q](https://akimikimikimikimikimikimika.github.io/main/Color/Color-Q/ "Color Q オンライン版") | [Q](https://akimikimikimikimikimikimika.github.io/main/Color/Color-Q/offline.html "Color Q オフライン版") |
+| [R](https://akimikimikimikimikimikimika.github.io/main/Color/Color-R/ "Color R オンライン版") | [R](https://akimikimikimikimikimikimika.github.io/main/Color/Color-R/offline.html "Color R オフライン版") |
+| [S](https://akimikimikimikimikimikimika.github.io/main/Color/Color-S/ "Color S オンライン版") | [S](https://akimikimikimikimikimikimika.github.io/main/Color/Color-S/offline.html "Color S オフライン版") |
+| [T](https://akimikimikimikimikimikimika.github.io/main/Color/Color-T/ "Color T オンライン版") | [T](https://akimikimikimikimikimikimika.github.io/main/Color/Color-T/offline.html "Color T オフライン版") |
 
 ### ソースコード
  [ソースコード (GitHub)](https://github.com/akimikimikimikimikimikimika/main/tree/master/Color "ソースコード")

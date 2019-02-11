@@ -26,12 +26,12 @@ Colorは,色と,色に応じて変化するコンテンツのサンプルです�
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/Color/ "Color")
 
-### Color Library
+## Color Library
 
 Color Libraryは,色に関する各種機能を提供するJavaScriptライブラリです。Colorオブジェクトを中心に,色の変換や色名値の色データの取得などを行います。
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/Library/Color/ "Color Library")
 
-### 注意
+## 注意
 
 幾つかの作品において,ページのURLが変更されました。それらに注意してください。具体的には,これまで同一のリポジトリ内で管理していた作品を,各々のリポジトリを用意し,分離しました。

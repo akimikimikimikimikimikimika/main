@@ -14,6 +14,12 @@ Triangleは,3角形を触って視覚的に体感するためのツールです�
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/Triangle/ "Triangle")
 
+## Parser
+
+Parserは,ファイルをBase64にエンコードするためのツールです。
+
+ [詳細を表示](https://akimikimikimikimikimikimika.github.io/Parser/ "Parser")
+
 ## Password Generator
 
 Password Generatorは,条件に合わせてランダムなパスワードを生成するツールです。

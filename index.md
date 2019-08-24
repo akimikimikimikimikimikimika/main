@@ -14,6 +14,12 @@ Triangleは,3角形を触って視覚的に体感するためのツールです�
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/Triangle/ "Triangle")
 
+## Statistic
+
+Statisticは,統計のイメージを掴むための簡単なおもちゃです。
+
+ [詳細を表示](https://akimikimikimikimikimikimika.github.io/Statistic/ “Statistic”)
+
 ## Tester
 
 Testerは,Web系の幾つかの言語をテストすることのできる軽量ツールです。

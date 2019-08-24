@@ -18,7 +18,7 @@ Triangleは,3角形を触って視覚的に体感するためのツールです�
 
 Statisticは,統計のイメージを掴むための簡単なおもちゃです。
 
- [詳細を表示](https://akimikimikimikimikimikimika.github.io/Statistic/ “Statistic”)
+ [詳細を表示](https://akimikimikimikimikimikimika.github.io/Statistic/ "Statistic")
 
 ## Tester
 

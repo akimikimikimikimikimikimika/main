@@ -20,6 +20,12 @@ Statisticは,統計のイメージを掴むための簡単なおもちゃです�
 
  [詳細を表示](https://akimikimikimikimikimikimika.github.io/Statistic/ "Statistic")
 
+## Ising
+
+Isingは,簡素なイジングモデルです。
+
+ [詳細を表示](https://akimikimikimikimikimikimika.github.io/Ising/ "Ising")
+
 ## Tester
 
 Testerは,Web系の幾つかの言語をテストすることのできる軽量ツールです。
